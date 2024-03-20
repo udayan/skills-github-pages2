@@ -1,5 +1,5 @@
 ---
-title: Welcome to my bloogg
+Pragya: Wisdom, as I see it
 ---
 # Heading Niveau Un
 
